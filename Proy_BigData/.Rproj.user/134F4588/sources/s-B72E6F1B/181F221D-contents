@@ -1,0 +1,53 @@
+---
+title: "explorando la base de datos"
+author: "ENRIQUE"
+date: "14/7/2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# explorando la base de datos
+# importando de spss y transformando a data frame
+```{r}
+library(foreign)
+setwd("C:\\Users\\Dell\\Documents\\GitHub\\mi_proyecto1_est_383\\doc_y_bd\\feminicidio\\bd")
+?read.spss
+bd_cas<-read.spss("EPCVCM_Casadas.sav")
+bd_per<-read.spss("EPCVCM_Persona.sav")
+bd_sol<-read.spss("EPCVCM_Solteras.sav")
+bd_viv<-read.spss("EPCVCM_Vivienda.sav")
+bd_sep<-read.spss("EPCVCM_Separadas.sav")
+#bd_se<-read.spss("EPCVCM_Casadas.sav", use.value.labels= F)
+
+
+bd_cas<-data.frame(bd_cas)
+bd_per<-as.data.frame(bd_per)
+bd_sol<-as.data.frame(bd_sol)
+bd_viv<-as.data.frame(bd_viv)
+bd_sep<-as.data.frame(bd_sep)
+# bd con etiquetas
+str(bd_cas)
+typeof(bd_cas)
+attributes(bd1)
+names(bd1)
+
+#bd sin etiquetas
+str(bd2)
+attributes(bd2)
+names(bd2)
+```
+# Exportando la base de datos a extension .RData
+```{r}
+getwd("C:\\Users\\Dell\\Documents\\GitHub\\mi_proyecto1_est_383\\doc_y_bd\\feminicidio\\bd")
+
+write(bd_cas,file = "bd_cas.RData")
+write(bd_per,file = "bd_per.RData")
+write(bd_sep,file = "bd_sep.RData")
+write(bd_sol,file = "bd_sol.RData")
+write(bd_viv,file = "bd_viv.RData")
+```
+
