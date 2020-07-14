@@ -3,23 +3,23 @@
     "path": "~/GitHub/mi_proyecto1_est_383/Proy_BigData/articulo.Rmd",
     "project_path": "articulo.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2438869627",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1594736620665.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "cursorPosition": "133,0",
-        "scrollLine": "116"
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1594742203,
+    "lastKnownWriteTime": 1594745863,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1594742266089,
+    "last_content_update": 1594745863220,
     "read_only": false,
     "read_only_alternatives": []
 }

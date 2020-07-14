@@ -36,13 +36,14 @@ attributes(bd1)
 names(bd1)
 
 #bd sin etiquetas
-str(bd2)
+str(bd_per)
 attributes(bd2)
 names(bd2)
 ```
 # Exportando la base de datos a extension .RData
 ```{r}
-getwd("C:\\Users\\Dell\\Documents\\GitHub\\mi_proyecto1_est_383\\doc_y_bd\\feminicidio\\bd")
+getwd()
+setwd("C:\\Users\\Dell\\Documents\\GitHub\\mi_proyecto1_est_383\\Proy_BigData\\bd_proy")
 
 write(bd_cas,file = "bd_cas.RData")
 write(bd_per,file = "bd_per.RData")

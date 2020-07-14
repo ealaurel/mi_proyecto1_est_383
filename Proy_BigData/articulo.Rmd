@@ -61,6 +61,7 @@ Tiene por objeto establecer mecanismos, medidas y políticas integrales de preve
 Esta Ley, además establece en el Artículo 11 la necesidad de contar con información en el Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en Razón de Género – SIPPASE-VRG.
 El SIPPASE tiene como mandato construir e Implementar todo el Sistema de Información que generan las instituciones públicas y privadas como fuente de información estadística sobre esta problemática, tarea que está siendo diseñada entre el Ente Rector, el Viceministerio de Igualdad de Oportunidades, a través de la Dirección General de Prevención y Erradicación de Toda Forma de Violencia en Razón de Género y Generacional, del Ministerio de Justicia y Transparencia Institucional y el
 Instituto Nacional de Estadística.
+
 ## 4.2. DEFINICIONES Y CONCEPTOS
 
 La violencia contra las mujeres, es y será un importante campo de estudio, que incluye investigaciones técnicas confiables y válidas para medir esta problemática social, que en gran parte de la región ya está incorporada en sus normativas jurídicas y, varían de un país a otro.
@@ -128,3 +129,5 @@ Se cuenta con 5 bases de datos:
 *	Persona
 *	Separadas
 *	Vivienda
+
+## 5.2. Variables de Interes
