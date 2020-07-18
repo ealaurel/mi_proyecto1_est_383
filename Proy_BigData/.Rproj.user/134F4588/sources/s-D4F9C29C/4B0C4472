@@ -1,0 +1,32 @@
+{
+    "id": "4B0C4472",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1594938115158.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "expression": "var_etiq",
+        "caption": "var_etiq",
+        "totalObservations": 717,
+        "displayedObservations": 717,
+        "variables": 2,
+        "cacheKey": "CC5D88AE",
+        "object": "var_etiq",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=var_etiq&cache_key=CC5D88AE&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3617574890426020921,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1594938115158,
+    "read_only": false,
+    "read_only_alternatives": []
+}

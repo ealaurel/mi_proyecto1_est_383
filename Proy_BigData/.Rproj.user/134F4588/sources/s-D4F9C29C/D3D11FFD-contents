@@ -3,7 +3,9 @@ title: "CARACTERISTICAS DE VIOLENCIA CONTRA LAS MUJERES"
 author: "Enrique Alejandro Laurel Cossío"
 date: "14/7/2020"
 output: pdf_document
-#bibliography: bibliografia.tex
+bibliography: bibliografia.bib
+#nocite: '@*'
+#pandoc_args: ["-Fpandoc-crossref"]
 ---
 
 ```{r setup, include=FALSE}
@@ -131,3 +133,40 @@ Se cuenta con 5 bases de datos:
 *	Vivienda
 
 ## 5.2. Variables de Interes
+ * Identificación del hogar
+ * Número de residente en el hogar
+ * Departamento
+ * Area geografíca
+ * ¿A lo largo de su vida, en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, la han humillado o menospreciado (la han hecho sentir menos)?
+ * ¿A lo largo de su vida, en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, la amenazaron con hacerle daño?
+ * ¿A lo largo de su vida, en la calle, lugar de diversión, transporte, mercado o en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, la han agredido físicamente?
+ * ¿A lo largo de su vida, en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, le han dicho piropos o frases de carácter sexual que le hyan 
+ * ¿A lo largo de su vida, en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, la manosearon o tocaron su cuerpo sin su consentimiento
+ * ¿A lo largo de su vida, en algún lugar público algún(os) hombre(s) conocido(s) o desconocido(s), sin considerar a su (ex) pareja/ (ex) novio, le han obligado a tener relaciones sexuales?
+
+
+# 6.	METODOLOGÍA
+## 6.1.	INDICADORES Y FICHAS DE INDICADORES
+
+FICHA TECNICA
+PROPORCION DE CASOS SEGÚN TIPO DE VIOLENCIA
+Nombre del Indicador:
+Proporción de casos de Violencia según tipo de Violencia	Código:
+
+Definición:	Es el porcentaje de mujeres que viven algún tipo de violencia. 
+
+
+
+
+Forma de Calculo:
+	Cociente entre el numero de mujeres con algún tipo de violencia y el total de mujeres en la encuesta, 
+(para cada tipo de violencia), multiplicado por 100 expresado como porcentaje (%)	Componentes de la fórmula de calculo
+		Numerador: Numero de mujeres con algún tipo de violencia 
+		Fuente del denominador: 
+EPCVcM_Persona
+		Denominador: Total de mujeres en la encuesta 
+		Fuente del Denominador:
+EPCVcM_Persona
+		Unidad de Medida:  Por 100(%)
+Niveles de Desagregación:	Nacional – Departamental- Área,(Urbano-Rural)	Elaborado Por:
+
