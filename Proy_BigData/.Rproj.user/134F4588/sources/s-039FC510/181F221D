@@ -3,16 +3,16 @@
     "path": "~/GitHub/mi_proyecto1_est_383/Proy_BigData/explor_bd.Rmd",
     "project_path": "explor_bd.Rmd",
     "type": "r_markdown",
-    "hash": "1913852468",
+    "hash": "2596488015",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1594742542520.0,
     "source_on_save": false,
     "relative_order": 5,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "257,0",
-        "scrollLine": "241",
+        "cursorPosition": "23,0",
+        "scrollLine": "12",
         "last_setup_crc32": "",
         "chunk_output_type": "console"
     },
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1595217075928,
+    "last_content_update": 1595274809213,
     "read_only": false,
     "read_only_alternatives": []
 }
