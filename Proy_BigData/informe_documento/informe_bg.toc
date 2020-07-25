@@ -1,0 +1,19 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\'on}{3}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo General}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos Espec\IeC {\'\i }ficos}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Motivaci\'on}{3}{section.3}%
+\contentsline {section}{\numberline {4}Marco Te\'orico}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Marco Normativo}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Definiciones y Conceptos}{4}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}\'Ambito Privado}{5}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}\'Ambito P\'ublico}{5}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Software}{6}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Descripci\'on de la Base de Datos}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Origen}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Variables de Inter\'es}{7}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Metodolog\IeC {\'\i }a}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Indicadores y Fichas de Indicadores}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Tratamiento sobre la base de datos}{9}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Armado de la Plataforma}{9}{subsection.6.3}%

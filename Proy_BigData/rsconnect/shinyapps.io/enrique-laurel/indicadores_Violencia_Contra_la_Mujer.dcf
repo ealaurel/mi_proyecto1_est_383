@@ -1,0 +1,12 @@
+name: indicadores_Violencia_Contra_la_Mujer
+title: indicadores_Violencia_Contra_la_Mujer
+username:
+account: enrique-laurel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2610710
+bundleId: 3433525
+url: https://enrique-laurel.shinyapps.io/indicadores_Violencia_Contra_la_Mujer/
+when: 1595644194.30588
+asMultiple: FALSE
+asStatic: FALSE

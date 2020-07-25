@@ -1,0 +1,27 @@
+{
+    "id": "5F9DCC2A",
+    "path": "~/GitHub/mi_proyecto1_est_383/Proy_BigData/tratamiento_bd.Rmd",
+    "project_path": "tratamiento_bd.Rmd",
+    "type": "r_markdown",
+    "hash": "1899318988",
+    "contents": "",
+    "dirty": false,
+    "created": 1595031697860.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "64,0",
+        "scrollLine": "0",
+        "last_setup_crc32": "",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1595643939,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595643939560,
+    "read_only": false,
+    "read_only_alternatives": []
+}

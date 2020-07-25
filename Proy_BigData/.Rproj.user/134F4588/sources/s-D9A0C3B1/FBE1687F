@@ -1,0 +1,32 @@
+{
+    "id": "FBE1687F",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1595622685653.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "expression": "ind3",
+        "caption": "ind3",
+        "totalObservations": "10908",
+        "displayedObservations": "10908",
+        "variables": "9",
+        "cacheKey": "A9FECEEC",
+        "object": "ind3",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=ind3&cache_key=A9FECEEC&max_cols=50",
+        "preview": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2337122351510276640,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1595622685653,
+    "read_only": false,
+    "read_only_alternatives": []
+}

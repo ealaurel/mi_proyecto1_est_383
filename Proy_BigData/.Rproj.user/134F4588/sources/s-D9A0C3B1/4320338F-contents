@@ -1,0 +1,82 @@
+,
+tabPanel("indicador 4",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+
+tabPanel("indicador 5",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+
+tabPanel("indicador 6",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+tabPanel("indicador 7",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+tabPanel("indicador 8",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+
+tabPanel("indicador 9",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+),
+
+tabPanel("indicador 10",
+         titlePanel("Tipo de Violencia Ambito Laboral"),
+         sidebarLayout(
+           sidebarPanel(
+             radioButtons("b4","tipo de violencia",choices = c("psicologica", "fisica","Economica_Patrimonial","sexual"))
+           ),
+           mainPanel(
+             tableOutput("t3")
+           )
+         )
+)
